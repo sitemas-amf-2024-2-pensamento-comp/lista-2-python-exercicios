@@ -60,5 +60,3 @@
 
 19. **Função para Contar Vogais:**
     - Escreva uma função `contar_vogais(texto)` que receba uma string e retorne o número de vogais presentes no texto. Peça ao usuário para digitar uma frase e exiba o resultado.
-
-Esses exercícios foram elaborados para ajudar os alunos a desenvolverem suas habilidades em lógica de programação, proporcionando uma prática sólida em laços de repetição, estruturas condicionais e o uso de funções.
